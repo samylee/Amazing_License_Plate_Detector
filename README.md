@@ -1,7 +1,7 @@
 # Amazing_License_Plate_Detector
 CPU Real-time Amazing License Plate Detection
 # FIND CODE  
-https://blog.csdn.net/samylee/article/details/112837675  
+https://blog.csdn.net/samylee/article/details/128212911  
 # Test steps
 Download 'opencv450 dll' and put it to current directory. [BaiDu Cloud](https://pan.baidu.com/s/1X9-pDypbj-TJMFxiSqow9A) Password: 4wpj  
 # Algorithm efficiency
