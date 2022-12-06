@@ -8,11 +8,11 @@ Download 'opencv450 dll' and put it to current directory. [BaiDu Cloud](https://
 `Hardware: CPU(i7-9700K @3.6GHz)`  
 | Algorithm | resolution | min_size | Speed/FPS |
 |:------:|:------:|:------:|:------:|
-| ours  | 320x180 |   36x12 | 526ms/1.9|
-| ours  | 640x360 |   36x12 | 14ms/71.4|
-| ours  | 640x480 |   36x12 | 14ms/71.4|
-| ours  | 1280x720 |  36x12 | 14ms/71.4|
-| ours  | 1920x1080 | 36x12 | 14ms/71.4|
+| ours  | 320x180 |   36x12 |   2(ms) / 500(FPS)|
+| ours  | 640x360 |   36x12 | 7(ms) / 142.9(FPS)|
+| ours  | 640x480 |   36x12 |  10(ms) / 100(FPS)|
+| ours  | 1280x720 |  36x12 | 30(ms) / 33.3(FPS)|
+| ours  | 1920x1080 | 36x12 | 70(ms) / 14.3(FPS)|
 # Example result  
 ![](results/0.jpg)  
 ![](results/3.jpg)  
